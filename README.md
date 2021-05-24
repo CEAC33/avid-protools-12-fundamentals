@@ -1,5 +1,7 @@
 # avid-protools-12-fundamentals
 
+# Introduction
+
 A soundtrack for a cinematic movie or a commercial or a game has 3 elements (DME):
 - Dialogue - is shorthand for any spoken word like an announcer track
 - Music - is anything from a symphony orchestra to a drone from a didgeridoo 
