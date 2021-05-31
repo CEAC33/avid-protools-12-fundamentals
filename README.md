@@ -117,3 +117,104 @@ Mix Window
 
 ![Screen Shot 2021-05-30 at 22 52 14](https://user-images.githubusercontent.com/51218415/120137340-b1148080-c199-11eb-956b-474620851564.png)
 
+## Importing Audio
+
+File > Import > Audio 
+
+OR
+
+Shift + Command + i
+
+- Select clockwork.aif
+- Convert/Copy
+- Apply SRC (Sample Rate Conversion) Checked
+- Tweak Head (Slowest)
+- Done
+- Audio Files folder
+- Open
+- New Track, Location: Session Start
+
+Space Bar: Play Audio
+
+## Tracks and Track Information
+
+Window > Mix 
+
+Input: No needed right now
+Output: The default analog output
+
+You can hide Tracks and Groups using this arrow at the bottom
+![Screen Shot 2021-05-30 at 23 20 19](https://user-images.githubusercontent.com/51218415/120139211-9b08bf00-c19d-11eb-8eb9-54ecf3786c88.png)
+
+You can see a mirror equivalent for Clips at the bottom right
+![Screen Shot 2021-05-30 at 23 21 49](https://user-images.githubusercontent.com/51218415/120139320-d1463e80-c19d-11eb-8d64-eef828ea7d1e.png)
+
+Edit Window View Selector
+
+![Screen Shot 2021-05-30 at 23 25 55](https://user-images.githubusercontent.com/51218415/120139595-634e4700-c19e-11eb-84c3-9d1785b51e87.png)
+
+Option + Click: Hide Edit View Option
+
+A track can be resized vertically
+
+Show/hide automation lanes
+
+![Screen Shot 2021-05-30 at 23 29 16](https://user-images.githubusercontent.com/51218415/120139796-db1c7180-c19e-11eb-83f5-06e01e3b79fa.png)
+
+- Volume
+- Mute
+- Pan
+ 
+![Screen Shot 2021-05-30 at 23 30 53](https://user-images.githubusercontent.com/51218415/120139911-15860e80-c19f-11eb-9567-3ccbdb3555b7.png)
+
+Elastic Audio
+
+![Screen Shot 2021-05-30 at 23 47 16](https://user-images.githubusercontent.com/51218415/120141070-61d24e00-c1a1-11eb-8028-6b86fc88b7bc.png)
+
+We can display:
+
+![Screen Shot 2021-05-30 at 23 48 32](https://user-images.githubusercontent.com/51218415/120141141-8d553880-c1a1-11eb-81f4-dcaca2594ac7.png)
+
+![Screen Shot 2021-05-30 at 23 51 37](https://user-images.githubusercontent.com/51218415/120141371-fa68ce00-c1a1-11eb-857f-0db0c9c5b77f.png) Record
+
+![Screen Shot 2021-05-30 at 23 52 13](https://user-images.githubusercontent.com/51218415/120141412-0f456180-c1a2-11eb-9e3d-fbc7d19ab1ed.png) Solo
+
+![Screen Shot 2021-05-30 at 23 52 28](https://user-images.githubusercontent.com/51218415/120141433-18363300-c1a2-11eb-9718-8b27427768fc.png) Mute
+
+![Screen Shot 2021-05-30 at 23 54 30](https://user-images.githubusercontent.com/51218415/120141581-60edec00-c1a2-11eb-8876-6254ee597d20.png) Choose between Samples and Ticks
+
+- Audio: Samples
+- MIDI: Ticks
+
+Double-click on name to rename a track:
+
+![Screen Shot 2021-05-30 at 23 55 36](https://user-images.githubusercontent.com/51218415/120141676-88dd4f80-c1a2-11eb-87e6-bd6d73f1f781.png)
+
+You can use a predefined vertical size by clicking the gray metric ruler:
+
+![Screen Shot 2021-05-30 at 23 58 08](https://user-images.githubusercontent.com/51218415/120141842-e4a7d880-c1a2-11eb-84e6-9c8f9ed42903.png)
+
+You can create a new track by:
+
+Track > New
+
+OR
+
+Shift + Command + N
+
+![Screen Shot 2021-05-31 at 0 00 04](https://user-images.githubusercontent.com/51218415/120142021-29337400-c1a3-11eb-8a98-8ce277974b87.png)
+
+Create New Mono Audio Track:
+
+![Screen Shot 2021-05-31 at 0 04 23](https://user-images.githubusercontent.com/51218415/120142327-c393b780-c1a3-11eb-98d7-66473ebd8b91.png)
+
+If I bring the Stereo Audio File into the new Mono Track it won't go
+
+It will go into the Stereo Track above it, but not in the Mono Track below
+
+However if I grab one of the Mono files, it will go
+
+![Screen Shot 2021-05-31 at 0 07 21](https://user-images.githubusercontent.com/51218415/120142623-2d13c600-c1a4-11eb-9db3-ad7c78f80a08.png)
+
+Control + Rigth click on track name: I can delete it
+
