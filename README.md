@@ -107,9 +107,11 @@ Create
 - Interleaved: Unchecked
 
 Basic Editing Window of Pro Tools
+
 ![Screen Shot 2021-05-30 at 22 48 02](https://user-images.githubusercontent.com/51218415/120137054-19169700-c199-11eb-863d-aa2ceb61a173.png)
 
 Transport Window
+
 ![Screen Shot 2021-05-30 at 22 50 22](https://user-images.githubusercontent.com/51218415/120137210-6c88e500-c199-11eb-9051-0623fbb7c765.png)
 
 Mix Window
