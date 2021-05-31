@@ -88,3 +88,32 @@ So a 24 bit resolution is 50 percent higher quality than a 16 and that gives you
 File Type:
 BWF - Broadcast Wave File
 
+# Basic Editing in The Timeline
+
+## Creating A Session
+
+- Importing
+- Editing
+- MIxing
+- Exporting
+
+Create
+
+- Name: clock
+- File type: BWF
+- Bit Depth: 24-bit
+- Sample Rate: 48kHz
+- I/O Settings: Last Used
+- Interleaved: Unchecked
+
+Basic Editing Window of Pro Tools
+![Screen Shot 2021-05-30 at 22 48 02](https://user-images.githubusercontent.com/51218415/120137054-19169700-c199-11eb-863d-aa2ceb61a173.png)
+
+Transport Window
+![Screen Shot 2021-05-30 at 22 50 22](https://user-images.githubusercontent.com/51218415/120137210-6c88e500-c199-11eb-9051-0623fbb7c765.png)
+
+Mix Window
+
+
+![Screen Shot 2021-05-30 at 22 52 14](https://user-images.githubusercontent.com/51218415/120137340-b1148080-c199-11eb-956b-474620851564.png)
+
