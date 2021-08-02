@@ -220,3 +220,61 @@ However if I grab one of the Mono files, it will go
 
 Control + Rigth click on track name: I can delete it
 
+## Clips And Clip Edits
+
+You can remove time measure indicator with:
+Opton + Click
+
+Or simply by selecting the checkboxes
+
+![Screen Shot 2021-08-01 at 20 06 17](https://user-images.githubusercontent.com/51218415/127791660-57c7252b-8224-4e57-b333-a79282852e7e.png)
+
+You can also adjust the height of the waves by clicking the ruler that is just before the wave:
+
+![Screen Shot 2021-08-01 at 20 08 57](https://user-images.githubusercontent.com/51218415/127791803-e13a4254-e3e7-4486-a75f-e7e966935101.png)
+
+
+![Screen Shot 2021-08-01 at 20 11 42](https://user-images.githubusercontent.com/51218415/127791964-94e5f671-0c43-4dfd-8070-089a87353a19.png)
+
+The left arrow to Zoom Out ( Commamd + [ )
+
+The right arrow to Zoom In ( Commamd + ] )
+
+![Screen Shot 2021-08-01 at 20 14 50](https://user-images.githubusercontent.com/51218415/127792114-110de352-b4b7-41a0-a3ae-613a123e337b.png)
+
+Selector Tool:
+
+![Screen Shot 2021-08-01 at 21 14 24](https://user-images.githubusercontent.com/51218415/127795627-6be0fdc0-87fb-455a-aec5-5a97ea9227ca.png)
+
+Separate Clip ( Command + E ): 
+
+Edit > Separate Clip > At Selection
+
+Separating Clock audio in 3 clips:
+
+![Screen Shot 2021-08-01 at 21 21 14](https://user-images.githubusercontent.com/51218415/127796123-ddda578d-fd59-4058-9987-53e568d685e0.png)
+
+You can activate the grid by clicking in Grid:
+
+![Screen Shot 2021-08-01 at 21 23 58](https://user-images.githubusercontent.com/51218415/127796300-8c2683be-6eb6-4293-b6b2-046d78d128d5.png)
+
+And it would look like this:
+
+![Screen Shot 2021-08-01 at 21 24 57](https://user-images.githubusercontent.com/51218415/127796370-d941ecaa-02a0-4885-95a0-68c43667fc74.png)
+
+Grabber Tool:
+
+![Screen Shot 2021-08-01 at 21 26 05](https://user-images.githubusercontent.com/51218415/127796454-276f069a-7ec2-4848-b219-6ca8e267f4b8.png)
+
+Double-click the first Clip and rename it as "ticking"
+
+Double-click the first Clip and rename it as "windup"
+
+Double-click the first Clip and rename it as "chime"
+
+If you select all (Command + A) and delete them, you are going to be able to recover them from the Clip Menu
+
+![Screen Shot 2021-08-01 at 21 31 48](https://user-images.githubusercontent.com/51218415/127796817-8a017c9f-fc04-4be5-bcd4-d1d918931d50.png)
+
+The bold clip is the parent one
+
