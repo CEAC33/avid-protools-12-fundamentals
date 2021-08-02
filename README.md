@@ -367,3 +367,45 @@ You can show/hide views by clicking the arrow at the top right:
 
 You can rearrange the order of the views by clicking Command and drag and drop the views
 
+## Trim, Clip Volume and Duplicate
+
+**Trim Clip to Selection** (Command T):
+
+Select a part of a clip > Edit > Trim Clip > To Selection
+
+![Screen Shot 2021-08-02 at 4 25 20](https://user-images.githubusercontent.com/51218415/127838147-275ff73c-e439-4809-9819-bcbca908422a.png)
+
+**Duplicate** (Commad D):
+
+Select a part of a clip > Edit > Duplicate
+
+![Screen Shot 2021-08-02 at 4 34 32](https://user-images.githubusercontent.com/51218415/127839559-b082100b-7f8a-4fbe-8edd-730db40714d6.png)
+
+**Repeat** (Option R):
+
+Select a part of a clip > Edit > Repeat
+
+![Screen Shot 2021-08-02 at 4 36 05](https://user-images.githubusercontent.com/51218415/127839851-2fb3da9c-dd5b-4f9d-8a65-e96fa1db704b.png)
+
+![Screen Shot 2021-08-02 at 4 37 08](https://user-images.githubusercontent.com/51218415/127839924-a24af655-d01d-4f07-a1d2-3bdb5f0fb7a0.png)
+
+**Clip Volume**:
+
+Is at the bottom left of every clip
+
+![Screen Shot 2021-08-02 at 4 40 11](https://user-images.githubusercontent.com/51218415/127840394-9f1edc32-dc63-49c2-9567-652329e6f8b2.png)
+
+**Crossfader**:
+
+Smart Tool Selected > Bottom part in the separation of two clips
+
+![Screen Shot 2021-08-02 at 4 47 57](https://user-images.githubusercontent.com/51218415/127841680-f8259d4e-35b3-435b-b2c5-34f627375974.png)
+
+## Consolidate and Export
+
+
+
+
+
+
+
