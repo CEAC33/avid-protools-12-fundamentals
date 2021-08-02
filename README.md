@@ -242,7 +242,7 @@ The right arrow to Zoom In ( Commamd + ] )
 
 ![Screen Shot 2021-08-01 at 20 14 50](https://user-images.githubusercontent.com/51218415/127792114-110de352-b4b7-41a0-a3ae-613a123e337b.png)
 
-Selector Tool:
+Selector Tool (F7):
 
 ![Screen Shot 2021-08-01 at 21 14 24](https://user-images.githubusercontent.com/51218415/127795627-6be0fdc0-87fb-455a-aec5-5a97ea9227ca.png)
 
@@ -262,7 +262,7 @@ And it would look like this:
 
 ![Screen Shot 2021-08-01 at 21 24 57](https://user-images.githubusercontent.com/51218415/127796370-d941ecaa-02a0-4885-95a0-68c43667fc74.png)
 
-Grabber Tool:
+Grabber Tool (F8):
 
 ![Screen Shot 2021-08-01 at 21 26 05](https://user-images.githubusercontent.com/51218415/127796454-276f069a-7ec2-4848-b219-6ca8e267f4b8.png)
 
@@ -279,4 +279,35 @@ If you select all (Command + A) and delete them, you are going to be able to rec
 ![Screen Shot 2021-08-01 at 21 31 48](https://user-images.githubusercontent.com/51218415/127796817-8a017c9f-fc04-4be5-bcd4-d1d918931d50.png)
 
 The bold clip is the parent one
+
+## Smart Tools and Edit Modes
+
+If you want to enable F1, F2, F3 and F4 you should go to:
+
+System Preferences > Keyboard > Enable the checkbox
+
+![Screen Shot 2021-08-01 at 23 30 39](https://user-images.githubusercontent.com/51218415/127804520-183e64f8-a3f0-40e8-a953-b41feefc009a.png)
+
+
+ProTools Editing Modes:
+- Shuffle (F1 / Option + 1) - Adds clip at the first gap is there, but can't move clips, just reattach
+- Slip (F2 / Option + 2) - Adds clip where your cursor is
+- Spot (F3 / Option + 3)
+- Grid Absolute & Relative (F4 / Option + 4)
+
+![Screen Shot 2021-08-01 at 23 23 19](https://user-images.githubusercontent.com/51218415/127804014-77e64b57-39d5-4654-831e-d8eccc317c3f.png)
+
+Trim Tool (F6) - Change where a clip starts and ends:
+
+- Shuffle - Change the start/end and fill the gaps
+- Slip - Change the start/end but leave the space empty
+
+![Screen Shot 2021-08-01 at 23 40 27](https://user-images.githubusercontent.com/51218415/127805110-a38c8aec-0e8f-4ff9-a0bd-0c7811867e1f.png)
+
+Smart Tool (3 icons selected) (F6+F7):
+- Upper Region - Region Selector
+- Lower Region - Grabber 
+- Middle Line - Trimmer
+
+![Screen Shot 2021-08-01 at 23 46 11](https://user-images.githubusercontent.com/51218415/127805463-e4302179-d2bd-48a1-bddc-aeba2f31cfc2.png)
 
