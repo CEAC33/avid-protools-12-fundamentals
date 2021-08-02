@@ -272,8 +272,7 @@ Double-click the first Clip and rename it as "windup"
 
 Double-click the first Clip and rename it as "chime"
 
-![Screen Shot 2021-08-01 at 21 35 55](https://user-images.githubusercontent.com/51218415/127797172-432f36c3-dbaf-41a3-a65a-2fba89c5caaf.png)
-
+![Screen Shot 2021-08-01 at 23 19 57](https://user-images.githubusercontent.com/51218415/127803860-ae6f8681-486a-4c7a-aa5c-d224e1504c47.png)
 
 If you select all (Command + A) and delete them, you are going to be able to recover them from the Clip Menu
 
