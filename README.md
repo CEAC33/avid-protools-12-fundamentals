@@ -242,7 +242,7 @@ The right arrow to Zoom In ( Commamd + ] )
 
 ![Screen Shot 2021-08-01 at 20 14 50](https://user-images.githubusercontent.com/51218415/127792114-110de352-b4b7-41a0-a3ae-613a123e337b.png)
 
-Selector Tool (F7):
+**Selector Tool** (F7):
 
 ![Screen Shot 2021-08-01 at 21 14 24](https://user-images.githubusercontent.com/51218415/127795627-6be0fdc0-87fb-455a-aec5-5a97ea9227ca.png)
 
@@ -262,7 +262,7 @@ And it would look like this:
 
 ![Screen Shot 2021-08-01 at 21 24 57](https://user-images.githubusercontent.com/51218415/127796370-d941ecaa-02a0-4885-95a0-68c43667fc74.png)
 
-Grabber Tool (F8):
+**Grabber Tool** (F8):
 
 ![Screen Shot 2021-08-01 at 21 26 05](https://user-images.githubusercontent.com/51218415/127796454-276f069a-7ec2-4848-b219-6ca8e267f4b8.png)
 
@@ -290,17 +290,17 @@ System Preferences > Keyboard > Enable the checkbox
 
 
 ProTools Editing Modes:
-- Shuffle (F1 / Option + 1) - Adds clip at the first gap is there, but can't move clips, just reattach
-- Slip (F2 / Option + 2) - Adds clip where your cursor is
-- Spot (F3 / Option + 3)
-- Grid Absolute & Relative (F4 / Option + 4)
+- **Shuffle** (F1 / Option + 1) - Adds clip at the first gap is there, but can't move clips, just reattach
+- **Slip** (F2 / Option + 2) - Adds clip where your cursor is
+- **Spot** (F3 / Option + 3)
+- **Grid** Absolute & Relative (F4 / Option + 4)
 
 ![Screen Shot 2021-08-01 at 23 23 19](https://user-images.githubusercontent.com/51218415/127804014-77e64b57-39d5-4654-831e-d8eccc317c3f.png)
 
 Trim Tool (F6) - Change where a clip starts and ends:
 
-- Shuffle - Change the start/end and fill the gaps
-- Slip - Change the start/end but leave the space empty
+- **Shuffle** - Change the start/end and fill the gaps
+- **Slip** - Change the start/end but leave the space empty
 
 ![Screen Shot 2021-08-01 at 23 40 27](https://user-images.githubusercontent.com/51218415/127805110-a38c8aec-0e8f-4ff9-a0bd-0c7811867e1f.png)
 
@@ -310,4 +310,60 @@ Smart Tool (3 icons selected) (F6+F7):
 - Middle Line - Trimmer
 
 ![Screen Shot 2021-08-01 at 23 46 11](https://user-images.githubusercontent.com/51218415/127805463-e4302179-d2bd-48a1-bddc-aeba2f31cfc2.png)
+
+## Counters, Grid and Nudge
+
+**Scrubber Tool** - scrubs whatever audio you select:
+
+![Screen Shot 2021-08-02 at 0 06 27](https://user-images.githubusercontent.com/51218415/127806928-6f729aca-9c9b-4e32-aa44-40b878356238.png)
+
+**Pencil Tool** - Automation moves, notes into a MIDI track:
+
+![Screen Shot 2021-08-02 at 0 10 25](https://user-images.githubusercontent.com/51218415/127807166-d51abe7d-ffc4-4383-b0cb-5c43e193b83a.png)
+
+### Counters
+
+**Main Counter**
+
+Tells you where the cursor is at any given second:
+
+![Screen Shot 2021-08-02 at 0 14 08](https://user-images.githubusercontent.com/51218415/127807404-f8cbaa06-348e-4c70-9209-cdbb0ad1fe99.png)
+
+You can change this counter and even add a subcounter:
+
+![Screen Shot 2021-08-02 at 0 15 26](https://user-images.githubusercontent.com/51218415/127807521-85f20bea-aa5e-4496-8b20-261074c27c55.png)
+
+**Edit Selection End**
+
+While selecting a clip it tells you where it starts, ends and its length
+
+![Screen Shot 2021-08-02 at 0 18 49](https://user-images.githubusercontent.com/51218415/127807775-cc5eaf02-f94c-4378-bd9d-e43543e0302d.png)
+
+**Nudge Custom Value**
+- **Grid** - Enables Grid 
+- **Nudge** (Comma/Dot) - Move clip in those increments in "Keyboard Focus"
+  - Comma - Move to the left
+  - Dot - Move to the right
+
+![Screen Shot 2021-08-02 at 0 20 24](https://user-images.githubusercontent.com/51218415/127807893-5dccba4d-d225-4866-a0f1-b8cd1b357755.png)
+
+![Screen Shot 2021-08-02 at 0 23 07](https://user-images.githubusercontent.com/51218415/127808181-6db9519e-4e50-4dcb-bdc9-4c7ae5dfd1b0.png)
+
+**Keyboard Focus**:
+
+![Screen Shot 2021-08-02 at 0 27 18](https://user-images.githubusercontent.com/51218415/127808524-63e09451-084d-4e1d-8bd3-29db8e9455a5.png)
+
+**Play** (Spacebar):
+
+![Screen Shot 2021-08-02 at 0 34 18](https://user-images.githubusercontent.com/51218415/127809108-e9dfcb90-db30-4e18-b4bb-3eaa64f0a540.png)
+
+**Output Meter Path**:
+
+![Screen Shot 2021-08-02 at 0 36 53](https://user-images.githubusercontent.com/51218415/127809281-42739f82-7cf9-4e2e-b9b1-3a1fff4bd50d.png)
+
+You can show/hide views by clicking the arrow at the top right:
+
+![Screen Shot 2021-08-02 at 0 39 22](https://user-images.githubusercontent.com/51218415/127809505-698431a8-a3f9-4f3a-9b53-11199b069e1a.png)
+
+You can rearrange the order of the views by clicking Command and drag and drop the views
 
