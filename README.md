@@ -403,9 +403,31 @@ Smart Tool Selected > Bottom part in the separation of two clips
 
 ## Consolidate and Export
 
+**Consolidate** (Option + Shift + 3):
 
+Edit > Consolidate Clip
 
+![Screen Shot 2021-08-02 at 4 56 14](https://user-images.githubusercontent.com/51218415/127843066-e981f5f5-050b-4475-8ed1-e5be5d8d2253.png)
 
+Rename Clip - Double click on the Clip
+
+![Screen Shot 2021-08-02 at 4 58 12](https://user-images.githubusercontent.com/51218415/127843367-7683ac6e-4cd4-4916-90d0-3339b9339058.png)
+
+**Export Clip**:
+
+Select the consolidated clip > Right Click > Export Clips as Files
+
+![Screen Shot 2021-08-02 at 5 02 13](https://user-images.githubusercontent.com/51218415/127843965-a3203653-33b2-4c8e-a7ae-8d1ff32284a5.png)
+
+**Export Options**
+- File Type: 
+  - WAV - for quality
+  - MP3 - for faster transfer
+- Format
+  - (Multiple) Mono - if you are sending the files to another ProTools user
+  - Interleaved - for final edition
+
+Notes: consolidate is only when you only have 1 track, if you have multiple tracks you should use the Bounce command
 
 
 
