@@ -429,5 +429,151 @@ Select the consolidated clip > Right Click > Export Clips as Files
 
 Notes: consolidate is only when you only have 1 track, if you have multiple tracks you should use the Bounce command
 
+# Customizing Pro Tools
+
+Open System Preferences > Keyboard > Shortcuts > App shortcuts > +
+
+**Application:** Pro Tools
+**Menu Title:** Hide Pro Tools
+**Keyboard shortcut:** Command+H
+
+And click on **Add**
+
+**Folder Structure in a Pro Tools Project:**
+- Audio Files - imported or recorded audio files
+- Bounced Files - default folder for bounced files
+- Clip Groups
+- Session File Backups
+- Video Files
+- WaveCache.wfm file
+- .ptx file - Pro Tools Session 
+
+Create 3 Mono Tracks and 3 MIDI Tracks:
+
+![Screen Shot 2021-08-08 at 9 28 45](https://user-images.githubusercontent.com/51218415/128635495-e0afb5eb-c584-4a5b-8bdd-b812901da505.png)
+
+## Options for Saving Sessions
+
+- Save - save the last changes in the same session
+- Save As - save in a different session
+
+It's smart to have multiple session files for a project and use the date to reference the day
+
+- Save Copy In - save the session and audio files of the session (you have to select the checkbox)
+
+![Screen Shot 2021-08-08 at 9 53 12](https://user-images.githubusercontent.com/51218415/128636280-cdb856ef-b2a5-4781-8e56-42c5f53f9165.png)
+
+You can also send a legacy version of the project in case you are going to send it to someone that hasn't updated ProTools in many years:
+![Screen Shot 2021-08-08 at 9 54 47](https://user-images.githubusercontent.com/51218415/128636354-b852a357-f1a7-448d-8cf3-5ac0ac4cd28a.png)
+
+- Save as Template
+  - Install template in system - if you are working in your own computer
+  - Select location for template - if you are working in school's computer
+
+In the Music category, the names are different genres:
+
+![Screen Shot 2021-08-08 at 9 58 05](https://user-images.githubusercontent.com/51218415/128636437-cfb1f371-b6b2-4680-85e1-43d5856a7ad3.png)
+
+In the Postproduction category, the names are different setups:
+
+![Screen Shot 2021-08-08 at 9 58 52](https://user-images.githubusercontent.com/51218415/128636456-eaf02f58-f68e-4976-85bd-58cae25733b8.png)
+
+Or you can create a new Category:
+
+![Screen Shot 2021-08-08 at 10 00 34](https://user-images.githubusercontent.com/51218415/128636497-853ebc93-78b9-4501-853b-62cc823a8618.png)
+
+Or create a New Style by typing in the box
+
+A Template is a `.PTT` file, is different from the session 
+
+## Pro Tools Preferences - Part 1
+
+Pro Tools (Menu) > Preferences
+
+OR
+
+Setup > Preferences
+
+![Screen Shot 2021-08-08 at 10 59 02](https://user-images.githubusercontent.com/51218415/128638089-26444590-c74d-4ed6-b36e-a1ea279da147.png)
+
+**Display** Tab
+- Tool Tips - little yellow popups that are helpful when you're learning Pro Tools
+- Edit Window Default Length - if you work in commercials you can set it to 30 or 60 seconds, if you work in pop music and your average song is 4 minutes you can set it to that value
+- Organize Plug-In Menus By - 
+
+By Category:
+
+![Screen Shot 2021-08-08 at 11 07 17](https://user-images.githubusercontent.com/51218415/128638293-a0382ece-1e30-45b9-a1d2-807ed37f2880.png)
+
+Flatlist:
+
+![Screen Shot 2021-08-08 at 11 08 38](https://user-images.githubusercontent.com/51218415/128638329-86cfef59-5ec9-42ba-a987-2aec1edd00b6.png)
+
+By Category & Manufacturer:
+
+![Screen Shot 2021-08-08 at 11 10 00](https://user-images.githubusercontent.com/51218415/128638357-727fcc47-f84d-47d3-84b0-d3ff60630a04.png)
+
+- Show Dashboard Window when Pro Tools starts
+- MIDI Note Color Shows Velocity - high velocity notes show up as bright red, and low velocity notes show up as pale blue
+
+**Operation** Tab
+- Play Start Marker Follows Timeline Selection
+- Auto Backup
+- User Media and Settings Location
+- Record - Automatically Create New Playlist When Recording Loop
+
+**Editing** Tab
+- Levels of Undo
+- Tracks - New Tracks Default to Tick Timebase: useful for composing MIDI
+
+**Mixing** Tab
+- Setup - Default EQ - EQ3 7-Band
+
+In the Mix Window is going to show at the top:
+
+![Screen Shot 2021-08-08 at 11 26 21](https://user-images.githubusercontent.com/51218415/128638812-a46071d9-95e4-49cf-9bf0-e5f6528853f1.png)
+
+- Automation - Latch
+
+## Pro Tools Preferences - Part 2
+
+**Metering** Tab
+- Track and Meter Types - Track and Meter Types Linked
+- Advanced Meter Type Settings - Color Break is when it goes from Green to Yellow to Red
+- Peak/Clip
+  - Peak Hold - 3 seconds
+  - Clip Indication - Infinite   
+
+**Processing** Tab
+- Import
+  - Convert imported ".wav" files to AES31/Broadcast Wave
+  - Automatically copy files on import 
+  - Sample Rate Comversion Quality - TweakHead
+- TC/E 
+  - TC/E plug-in - you can choose your default time compression plugin when you use TC/E trimer
+  - Default Settings - you can choose the algorithm
+- Elastic Audio
+
+**MIDI** Tab
+- Basics
+  - Use MIDI to tap tempo
+  - Use F11 Key to Wait For Note
+  - Default Thru Instrument
+  - Double-clicking a MIDI Clip opens - MIDI Editor
+
+**Synchronization** Tab
+- Machine Control
+
+Hide Pro Tools, go to Finder > Go > Press `Option` > Library
+
+When Pro Tools misbehaves you can trash the file:
+
+`Library/Preferences/ByHost/com.avid.ProTools.plist`
+
+If that doesn't work the trash the file:
+
+`Library/Preferences/Avid/Pro Tools/Pro Tools Prefs`
+
+## Windows Layouts and Scroll Options
 
 
