@@ -574,6 +574,64 @@ If that doesn't work the trash the file:
 
 `Library/Preferences/Avid/Pro Tools/Pro Tools Prefs`
 
-## Windows Layouts and Scroll Options
+## Window Layouts and Scroll Options
 
+There are 2 Main Windows in Pro-Tools
+- Edit Window
+- Mix Window
 
+**Edit Window**:
+
+![Screen Shot 2021-08-08 at 12 36 44](https://user-images.githubusercontent.com/51218415/128640613-017dca41-5d50-487f-9f6b-00c69f4fe0c8.png)
+
+**Mix Window**:
+
+![Screen Shot 2021-08-08 at 12 36 24](https://user-images.githubusercontent.com/51218415/128640601-52e21cec-17ba-4957-b7a8-c4b37ccf3e06.png)
+
+You can shift between both windows using `Commad + =`/`Command + Shift + 0`
+
+In Window Menu > Arrange > Tile - to have both windows
+
+Window > Configurations > New Configuration - When you found a Configuration that you liked
+
+**Transport Window** (Command + Keypad 1):
+
+![Screen Shot 2021-08-08 at 12 45 16](https://user-images.githubusercontent.com/51218415/128640822-e23d5234-6fa2-40a5-81a0-76b545e9fb7e.png)
+
+![Screen Shot 2021-08-08 at 12 46 06](https://user-images.githubusercontent.com/51218415/128640846-1eb74509-da52-436f-9e75-578739421ef4.png)
+
+**Big Counter Window** (Command + Keypad 3):
+
+![Screen Shot 2021-08-08 at 12 47 12](https://user-images.githubusercontent.com/51218415/128640872-ac60fc4f-9d7f-41a8-8875-58fed488f964.png)
+
+**Zoom Out** (Command + [)
+
+**Zoom In** (Command + ])
+
+**Normal Zoom / Single Zoom** (F5)
+
+![Screen Shot 2021-08-08 at 12 52 31](https://user-images.githubusercontent.com/51218415/128641018-680a9aa8-2129-4350-acc5-3b3ac5bc36c9.png)
+
+Choose Single Zoom Tool > Be sure you're in Keyboard Focus > Press E
+
+It will go from this:
+
+![Screen Shot 2021-08-08 at 13 00 18](https://user-images.githubusercontent.com/51218415/128641241-00bd95d1-18a6-4878-a949-b1fd14a41fdf.png)
+
+To this:
+
+![Screen Shot 2021-08-08 at 13 00 44](https://user-images.githubusercontent.com/51218415/128641251-5c2cad11-295c-4217-b6d5-eff99cbc5a4f.png)
+
+**Link Playback Cursor and Edit Cursor**:
+
+![Screen Shot 2021-08-08 at 13 04 05](https://user-images.githubusercontent.com/51218415/128641340-422317c1-e41f-4926-9cb2-4a1affc5a07f.png)
+
+OR
+
+Options (Menu) > Link Timeline and Edit Selection
+
+Options (Menu) > Edit Window Scrolling
+
+![Screen Shot 2021-08-08 at 13 23 52](https://user-images.githubusercontent.com/51218415/128641868-0a012fd2-c7ca-4d3f-809c-38af36595867.png)
+
+## Sorting in the Clip Bin
