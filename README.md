@@ -635,3 +635,72 @@ Options (Menu) > Edit Window Scrolling
 ![Screen Shot 2021-08-08 at 13 23 52](https://user-images.githubusercontent.com/51218415/128641868-0a012fd2-c7ca-4d3f-809c-38af36595867.png)
 
 ## Sorting in the Clip Bin
+
+Clips > Timeline Drop Order
+- Top to Bottom - If dragged and drop, the clips will go in different tracks
+- Left to Right - If dragged and drop. the clips will go in the same track
+
+![Screen Shot 2021-08-08 at 17 38 26](https://user-images.githubusercontent.com/51218415/128647733-c10fb6d0-5431-48b3-8ae8-b64673e1a1b5.png)
+
+## Clearing and Deleting Files
+
+Clips > Clear
+
+## Showing and Hiding Tracks
+
+Each Track Type has a different Icon:
+
+![Screen Shot 2021-08-08 at 17 45 21](https://user-images.githubusercontent.com/51218415/128647890-e50b64d2-9b8d-4872-bb5c-d50485cb1758.png)
+
+You can reorder the tracks by reordering them in the Track Bin
+
+Recommended Order:
+- Audio Stuff (Audio Tracks)
+- Scoring Stuff (MIDI Tracks)
+- Our Processing (Aux and Master Tracks)
+
+We want to have Master as the last so it appear at the right in the Mix Window:
+
+![Screen Shot 2021-08-08 at 17 49 19](https://user-images.githubusercontent.com/51218415/128647980-a7333034-805e-4b3a-b369-6bb094efc266.png)
+
+We can Show or Hide Tracks with different options:
+
+![Screen Shot 2021-08-08 at 17 50 46](https://user-images.githubusercontent.com/51218415/128648006-571f1897-5905-47e4-9429-2821fee16d88.png)
+
+The M is for muting the track:
+
+![Screen Shot 2021-08-08 at 17 52 27](https://user-images.githubusercontent.com/51218415/128648033-08a48f59-00a3-4dea-b702-90d7ee97ef3a.png)
+
+## Track and Clip Colors
+
+If you double-click in the color at the left of the track you can change it:
+
+![Screen Shot 2021-08-08 at 17 56 06](https://user-images.githubusercontent.com/51218415/128648099-e9c90417-e6b0-4fd8-8d00-3ce64df0fefe.png)
+
+You can change the color of the entire spectrum information by clicking this button:
+
+![Screen Shot 2021-08-08 at 17 57 25](https://user-images.githubusercontent.com/51218415/128648124-d0278719-ffa5-4670-9b10-f75415cc573e.png)
+
+You can select the color for Clips or Tracks:
+
+![Screen Shot 2021-08-08 at 17 58 50](https://user-images.githubusercontent.com/51218415/128648154-9e6857e8-940f-4db3-93ec-e5c657807658.png)
+
+By clicking in the bottom left icon you can add extra info as Volume, Mute and Pan:
+
+![Screen Shot 2021-08-08 at 18 02 14](https://user-images.githubusercontent.com/51218415/128648217-77bb2fd1-debe-4cc7-8217-ff5c3a24d265.png)
+
+## Session Parameters
+
+Setup > Session (Command + Keypad 2)
+
+![Screen Shot 2021-08-08 at 18 04 33](https://user-images.githubusercontent.com/51218415/128648257-f1b49123-38ff-48a7-a791-13383427877f.png)
+
+Sample Rate is fixed, I cannot change that at the middle of the game
+
+## New Workspace Browser
+
+![Screen Shot 2021-08-08 at 18 09 01](https://user-images.githubusercontent.com/51218415/128648343-5a32d1e6-a3da-4c72-a1d2-011afcfc38ca.png)
+
+You can search for audio files for example
+
+You can setup 5 presets with different columns/ window size
