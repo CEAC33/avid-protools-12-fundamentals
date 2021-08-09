@@ -765,3 +765,65 @@ And now you can adjust the volume of the reverb independently
 
 ## The 1-2-3 System
 
+![Screen Shot 2021-08-08 at 21 48 52](https://user-images.githubusercontent.com/51218415/128655675-d40b8517-6a88-495e-bd7b-c08ba63ab8f5.png)
+
+## The Separation Grabber
+
+Right Click the Grabber:
+
+![Screen Shot 2021-08-08 at 21 50 19](https://user-images.githubusercontent.com/51218415/128655762-e1c66df8-9949-4649-9ded-33b1af2df8e7.png)
+
+Enable Suffle Mode
+
+With the Smart Tool Enable Select the first part that you want
+
+With `Option` pressed drag from the bottom part 
+
+![Screen Shot 2021-08-08 at 21 57 41](https://user-images.githubusercontent.com/51218415/128656094-94c4250b-e999-45d9-bb5c-804f31c4a464.png)
+
+Remember that you can cut adjust volume just for certain clip in the bottom left
+
+![Screen Shot 2021-08-08 at 22 04 36](https://user-images.githubusercontent.com/51218415/128656399-87d267ec-ca4f-40d8-8098-cc70aed395c6.png)
+
+If you go to Mix Window and `press option while dragging and drop` a send you can duplicate it
+
+![Screen Shot 2021-08-08 at 22 07 11](https://user-images.githubusercontent.com/51218415/128656516-90cce9fb-130b-4764-90b4-6c619df794a2.png)
+
+![Screen Shot 2021-08-08 at 22 09 44](https://user-images.githubusercontent.com/51218415/128656640-5a657350-faf5-4a5a-b748-82b5090f5cbf.png)
+
+## Music in the Cue
+
+Using music in the cue it's one way to enhance the performance that you record
+
+![Screen Shot 2021-08-08 at 23 00 42](https://user-images.githubusercontent.com/51218415/128659087-68664d28-833c-467e-9c87-fcebdb541485.png)
+
+## FX in the Cue
+
+If a Bus is Post-Fader (Default) then if you lower the volume of the origin is not going to send much audio to the aux track
+
+Selecting the PRE button will make the bus to be Pre-Fader
+
+Using Pre-Fader bus you can lower the volume of the original voice and just hear the processed output
+
+![Screen Shot 2021-08-08 at 23 08 57](https://user-images.githubusercontent.com/51218415/128659579-4a5e4031-333a-46d3-baa9-3ffd1a63a457.png)
+
+## Breathless
+
+You can cut and remove the duplicates in Shuffle Mode to make a dialog that looks like there were no pauses to take a breath
+
+![Screen Shot 2021-08-08 at 23 32 54](https://user-images.githubusercontent.com/51218415/128660670-44717af6-db0b-4e97-b70c-33f2761d1885.png)
+
+## The TCE Trimmer
+
+TCE Trimmer = Time Expansion and Compression Trimmer
+
+Right Click the Trimer Icon and you'll see this options
+
+![Screen Shot 2021-08-08 at 23 39 05](https://user-images.githubusercontent.com/51218415/128660972-b116281c-6417-421b-a943-11e9c613c9ef.png)
+
+If you use this trimmer it will make the audio go faster or slower
+
+In the Clip Bin you'll see the original and the Timeshifted version
+
+![Screen Shot 2021-08-08 at 23 43 13](https://user-images.githubusercontent.com/51218415/128661193-bfc16b5b-237d-4884-8c92-b235bc5a3486.png)
+
