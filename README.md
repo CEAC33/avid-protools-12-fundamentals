@@ -827,3 +827,109 @@ In the Clip Bin you'll see the original and the Timeshifted version
 
 ![Screen Shot 2021-08-08 at 23 43 13](https://user-images.githubusercontent.com/51218415/128661193-bfc16b5b-237d-4884-8c92-b235bc5a3486.png)
 
+# Editing Music Tracks
+
+## Editing Library Music
+
+Remember that you can you `Option + Click` to disable timeline info that's not useful
+
+![Screen Shot 2021-08-09 at 0 03 34](https://user-images.githubusercontent.com/51218415/128662141-81fc7e37-d10f-483f-a2e6-9d3e1ea79ac6.png)
+
+**How to measure Tempo**
+
+Option 1 - Tap Tempo
+
+If keyboard focus is off 
+
+![Screen Shot 2021-08-09 at 0 08 34](https://user-images.githubusercontent.com/51218415/128662562-5d90ceb4-d0c2-4507-ba62-9bfe3b1722c4.png)
+
+And the conductor is inactive (Transport Window)
+
+![Screen Shot 2021-08-09 at 0 09 39](https://user-images.githubusercontent.com/51218415/128662606-b6885390-9158-41cf-a45a-4ad0699705a7.png)
+
+You can actually control the tempo
+
+Setup > Preferences > MIDI > Use MIDI to Tap Tempo
+
+![Screen Shot 2021-08-09 at 0 13 44](https://user-images.githubusercontent.com/51218415/128662815-221e4bdc-acbe-4f15-82f1-d4b9c3d7e85a.png)
+
+You can use letter T while the tempo is highlighted
+
+![Screen Shot 2021-08-09 at 0 14 08](https://user-images.githubusercontent.com/51218415/128662830-941e5a08-7431-407d-b737-7f09a8203b8b.png)
+
+
+## Using Identify Beat
+
+Option 2 - Identify Beat
+
+Enable Conductor
+
+Select where the 2nd bar should be and use `Command + I`
+
+And set the value to 2|1|000
+
+![Screen Shot 2021-08-09 at 0 24 39](https://user-images.githubusercontent.com/51218415/128663424-c780f338-0758-452e-8171-6e5987f488d7.png)
+
+Select where the 3th bar should be and use `Command + I`
+
+And set the value to 3|1|000
+
+Select where the 4th bar should be and use `Command + I`
+
+And set the value to 4|1|000
+
+## Slicing Music using the Grid
+
+Option 3 - 
+
+Enable Grid Mode
+
+Select 1/8 in the Grid Value
+
+![Screen Shot 2021-08-09 at 0 37 08](https://user-images.githubusercontent.com/51218415/128664058-603c3be3-6900-45c9-a2d9-382944480557.png)
+
+Highlight the Tempo and scroll until you see it's aligned
+
+![Screen Shot 2021-08-09 at 0 38 45](https://user-images.githubusercontent.com/51218415/128664164-0d2a322a-2d4c-4113-b309-4c6a76fc4a22.png)
+
+Use Grid Mode to Select, `Command + D` to duplicate your selection
+
+Select the duplicates using Grid Mode, move to Shuffle Mode and move them at the beginning
+
+![Screen Shot 2021-08-09 at 0 47 29](https://user-images.githubusercontent.com/51218415/128664585-b30341cc-4232-4cb4-8fca-371b71e8268b.png)
+
+Put Grid 1/4 Notes
+
+Select All 
+
+Edit > Separate Clip > On Grid
+
+![Screen Shot 2021-08-09 at 0 52 30](https://user-images.githubusercontent.com/51218415/128664883-59ae40da-6898-4aec-8bdc-94d60bcf5ef1.png)
+
+## Splices and Crossfades
+
+## Fade and Crossfade Options
+
+## Changing Tempo of Library Music Tracks
+
+## Setting Triggers in Beat Detective
+
+## Conforming Trigger in Beat Detective
+
+# Elastic Audio
+
+## Elastic Audio for a Voice Track
+
+## Elastic Audio for Music
+
+## Pitch Adjustments using Elastic Audio
+
+# MIDI in Pro Tools 
+
+## Connecting a MIDI Keyboard
+
+
+
+
+
+
