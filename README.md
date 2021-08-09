@@ -703,4 +703,34 @@ Sample Rate is fixed, I cannot change that at the middle of the game
 
 You can search for audio files for example
 
-You can setup 5 presets with different columns/ window size
+You can setup 5 presets with different columns/window size
+
+# Recording and Editing a Voice Track
+
+## Setting Mic Input Levels
+
+Power On Phantom Power After you plug it 
+Power Off Phantom Power Before you unplug it
+
+Once your interface and microphone are connected
+
+Setup > Playback Engine > Select your Audio Interface
+
+![Screen Shot 2021-08-08 at 19 10 13](https://user-images.githubusercontent.com/51218415/128649834-fb165362-0202-4adc-9bfb-44ec5a58afe5.png)
+
+In you I/O options assign an input to your Audio Track:
+
+![Screen Shot 2021-08-08 at 19 12 35](https://user-images.githubusercontent.com/51218415/128649886-01e936f7-40a6-4e21-82c2-476fe0fc49b7.png)
+
+Then select the red circle icon and will be able to see audio being detected
+
+![Screen Shot 2021-08-08 at 19 14 30](https://user-images.githubusercontent.com/51218415/128649938-793e5549-1742-4c5b-a9d9-e29d20a5b823.png)
+
+- Gain Level - Set the perfect one for your specific recording and performer
+- Room tone - is the term for ambient sound in a recording, be careful where you record
+- Plosives - `p` and `s` are the main culprits
+- Proximity effects - closer to the mic, the lower frequencies become more dominant
+
+## Setting Up a Cue
+
+
