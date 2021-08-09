@@ -733,4 +733,35 @@ Then select the red circle icon and will be able to see audio being detected
 
 ## Setting Up a Cue
 
+![Screen Shot 2021-08-08 at 19 48 31](https://user-images.githubusercontent.com/51218415/128651016-6dd3acba-f7fc-4bc8-aeed-dae73b1376b6.png)
+
+Options > Enable Delay Compensation
+
+Options > Enable Low Latency Monitoring
+
+Click the Record Icon and the Play Icon to start recording
+
+![Screen Shot 2021-08-08 at 19 51 40](https://user-images.githubusercontent.com/51218415/128651106-a912b3c1-6515-48ae-8e0b-95fa50c4a3f0.png)
+
+You can move to the Mix Window and add a Reverb:
+
+![Screen Shot 2021-08-08 at 19 58 40](https://user-images.githubusercontent.com/51218415/128651346-26c1af46-3017-4697-82a5-48381a5cf29e.png)
+
+With this option you can select how Wet/Dry the reverb is:
+
+![Screen Shot 2021-08-08 at 20 00 42](https://user-images.githubusercontent.com/51218415/128651411-b11d6dbf-a454-47dc-a9c1-38f6c6edb7c5.png)
+
+Create a Mono Aux Track:
+
+You can drag and drop the reverb
+
+Set AVO Track Output to Buses 3-4
+
+Set Input for Aux Track for Bus 3
+
+And now you can adjust the volume of the reverb independently
+
+![Screen Shot 2021-08-08 at 20 14 51](https://user-images.githubusercontent.com/51218415/128651839-0796589b-15af-4124-968e-38be2b05bcfb.png)
+
+## The 1-2-3 System
 
