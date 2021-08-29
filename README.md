@@ -1159,14 +1159,149 @@ Select the Clip using Polyphonic and you would be able to change Pitch Shift Pos
 ## MIDI Import and Export
 
 # Tracking Instruments
+
 ## Adding Rhythm Guitar
+
+Create a Project from "Songwriter - Guitarist" Template
+
+![Screen Shot 2021-08-29 at 13 36 25](https://user-images.githubusercontent.com/51218415/131261592-6e984870-8500-42f4-b60a-89d1fa32aac7.png)
+
+Open Mix Window, select first Track
+
+![Screen Shot 2021-08-29 at 13 37 48](https://user-images.githubusercontent.com/51218415/131261637-c928c896-d34d-4f28-97fb-f48eee97a00d.png)
+
+Then press Shift and select last Track; that will select all the tracks
+
+![Screen Shot 2021-08-29 at 13 38 50](https://user-images.githubusercontent.com/51218415/131261661-f1bc7a8d-1bc2-4f1f-9c62-4da4eb75f099.png)
+
+Command and click headphone to deselect it
+
+![Screen Shot 2021-08-29 at 13 40 20](https://user-images.githubusercontent.com/51218415/131261713-3d2a3353-8c8b-449c-a8d5-bd7e7e57c745.png)
+
+Press Shift + Control + Option
+
+Select an output and that will apply it to all the Tracks
+
+![Screen Shot 2021-08-29 at 13 42 58](https://user-images.githubusercontent.com/51218415/131261790-332fb362-5899-4175-a7fe-f7d49a016e1e.png)
+
+Now let's record a guitar:
+
+![Screen Shot 2021-08-29 at 13 47 48](https://user-images.githubusercontent.com/51218415/131261966-1cd988e4-1aeb-4e54-8178-232536f3b214.png)
+
 ## Arranging using the Timeline
+
+Let's say we want an intro, so let's move the drums and guitar to Bar 5:
+
+![Screen Shot 2021-08-29 at 13 49 54](https://user-images.githubusercontent.com/51218415/131262016-857da265-3da6-4d7c-b98f-004c3e8e8146.png)
+
+Use the Loop Trimmer, that shows automatically if you have a loop in the timeline
+
+![Screen Shot 2021-08-29 at 13 52 24](https://user-images.githubusercontent.com/51218415/131262089-5f72e228-6a07-49e2-8540-13e9c2872455.png)
+
+You can open by Double-Clicking the Drum Clip, select the notes you want to Mute and press Command + M
+
+![Screen Shot 2021-08-29 at 13 53 02](https://user-images.githubusercontent.com/51218415/131262105-2d0f3f71-8a77-43f6-a2f8-d246b7ac2ce6.png)
+
+Count Off gives you two Bars before recording so you can prepare:
+
+![Screen Shot 2021-08-29 at 13 55 10](https://user-images.githubusercontent.com/51218415/131262162-6918ecb9-cfd4-4bc9-8b0d-b869fd6e1c22.png)
+
+You can change that in Setup > Click/Countoff
+
+![Screen Shot 2021-08-29 at 13 57 47](https://user-images.githubusercontent.com/51218415/131262227-b0cb8c63-d0bb-484f-9a30-383ce1edc399.png)
+
+Now let's record the intro for the Guitar:
+
+![Screen Shot 2021-08-29 at 13 59 09](https://user-images.githubusercontent.com/51218415/131262292-bd02b7db-76e2-4a71-89a8-f20257725628.png)
+
+And add a crossfade if necessary
+
 ## Guitar Amp Simulators
+
+Go to Mix Windows and to the Guitar Effects
+
+Eleven Lite:
+
+![Screen Shot 2021-08-29 at 14 03 13](https://user-images.githubusercontent.com/51218415/131262356-c0d11766-228d-4db3-b160-e7365c0e0860.png)
+
+PSA-1:
+
+![Screen Shot 2021-08-29 at 14 06 15](https://user-images.githubusercontent.com/51218415/131262413-0ee1e4e6-d9e5-4ca9-aedc-f00438ea2f9e.png)
+
 ## Loop Record and Playlists
+
+Select 4 Bars that you want to record:
+
+![Screen Shot 2021-08-29 at 14 13 09](https://user-images.githubusercontent.com/51218415/131262635-bf7763fd-6bfd-4c3a-9df8-3948022f9bf6.png)
+
+Options > Loop Record
+
+You'll see that now Playback and Record have the Loop icon:
+
+![Screen Shot 2021-08-29 at 14 14 49](https://user-images.githubusercontent.com/51218415/131262666-0700e445-6aee-44d8-8cd2-63cd8cd7821c.png)
+
+Click in the inverted triangle and you'll see all the recordings:
+
+![Screen Shot 2021-08-29 at 14 17 31](https://user-images.githubusercontent.com/51218415/131262747-3014c594-56b8-49c8-8f57-8292d5c5473a.png)
+
+
 ## Comping a Playlist
+
+You can also see the waveform of all the recordings in the Playlist:
+
+![Screen Shot 2021-08-29 at 14 19 27](https://user-images.githubusercontent.com/51218415/131262799-c6f18051-3362-482d-8beb-d8e8e9c91881.png)
+
+![Screen Shot 2021-08-29 at 14 20 27](https://user-images.githubusercontent.com/51218415/131262820-be3e132a-fbcd-4f24-851b-0046e61f1873.png)
+
+Select Grid Mode and 1/4 notes
+
+You can select a part and elevate it:
+
+![Screen Shot 2021-08-29 at 14 21 43](https://user-images.githubusercontent.com/51218415/131262847-11d9e674-df07-479e-be32-23f58482379d.png)
+
+![Screen Shot 2021-08-29 at 14 22 21](https://user-images.githubusercontent.com/51218415/131262860-7a1c33b4-f7d5-4e7f-a218-6bbe241f926e.png)
+
 ## Quick Punch
-## Dynamic Punch
+
+Check these options:
+
+![Screen Shot 2021-08-29 at 14 28 22](https://user-images.githubusercontent.com/51218415/131263006-12be5af9-ff47-42b7-b9ec-8a0b3c5b0622.png)
+
+Disable Loop Recording
+
+You can set an Start and End points for recording: 
+
+![Screen Shot 2021-08-29 at 14 29 24](https://user-images.githubusercontent.com/51218415/131263038-fbd5486c-7012-49cc-939f-6c21537dc45b.png)
+
+![Screen Shot 2021-08-29 at 14 30 20](https://user-images.githubusercontent.com/51218415/131263065-6126e80c-b115-4526-bc99-4b8381604228.png)
+
+Options > Quick Punch
+
+Now you can use F12 to stop recording
+
+This will for example give a new bar 9 but keep original bar 10
+
+![Screen Shot 2021-08-29 at 14 31 25](https://user-images.githubusercontent.com/51218415/131263082-009ab6f1-a9c9-4d8a-93db-dc41f5d6327f.png)
+
+Or record some part, keep the original part and recording a new part after
+
+![Screen Shot 2021-08-29 at 14 33 29](https://user-images.githubusercontent.com/51218415/131263126-d90aff9e-8b1c-44cc-be30-aa8b1ce9e2b5.png)
+
+## Dynamic Transport
+
+Options > Dynamic Transport
+
+You can set Bar 6 as reference and jump to Bar 10 to Record:
+
+![Screen Shot 2021-08-29 at 14 53 02](https://user-images.githubusercontent.com/51218415/131263609-d8882e9f-1677-4980-9378-992f29224a63.png)
+
+And you can combine it with Quick Punch
+
 ## Half Speed Recording
+
+Shift + Command + Space = Half Speed Recording
+
+You'll have a record with the speed doubled and a higher pitch
 
 # Sound Design - LATER
 ## Sound Design
