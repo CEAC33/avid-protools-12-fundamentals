@@ -908,25 +908,220 @@ Edit > Separate Clip > On Grid
 
 ## Splices and Crossfades
 
+Import audio files and put 123 as tempo
+
+Go to Bar 9, and select it in Grid Mode, Command + E to cut it, and rename it as "Intro"
+
+![Screen Shot 2021-08-29 at 0 29 18](https://user-images.githubusercontent.com/51218415/131239686-434c9bac-d6f3-4dcd-a667-2ef3ca9d2cce.png)
+
+Move to Shuffle Mode, and drag it to the beginning, Command + D to add 3 more of those
+
+Add crossfades between the repeated intros we added
+
+![Screen Shot 2021-08-29 at 0 40 41](https://user-images.githubusercontent.com/51218415/131239924-b6aac66a-4099-44eb-b39c-bd05e45ce5dd.png)
+
+You can also Fade Down after the intros:
+
+![Screen Shot 2021-08-29 at 0 44 14](https://user-images.githubusercontent.com/51218415/131240030-0fa7b2f8-bd34-4c7e-b346-ece7098ffa25.png)
+
+Switch to Grid Mode
+
+Move the first audio track to Bar 5:
+
+![Screen Shot 2021-08-29 at 0 46 36](https://user-images.githubusercontent.com/51218415/131240094-ee33459d-44ce-46aa-9411-2ee21b31b508.png)
+
+Now mute the clip with Command + M:
+
+![Screen Shot 2021-08-29 at 0 48 17](https://user-images.githubusercontent.com/51218415/131240132-0ac9af6a-5562-42ae-a5fd-0fe968edd5c6.png)
+
+Select the Upper Track, change Tempo to 96
+
+You can select Bar 5 and Option + Drag will duplicate the Bar
+
+Fade In the Upper Track, Full One Bar Fade In
+
+![Screen Shot 2021-08-29 at 0 53 36](https://user-images.githubusercontent.com/51218415/131240256-b7f422f5-4dec-4fdf-81be-e4840869453e.png)
+
+And Full Bar Fade Out in the Lower Track
+
+![Screen Shot 2021-08-29 at 0 57 15](https://user-images.githubusercontent.com/51218415/131240322-490a80d0-3012-4ab5-b04b-f9a78760197f.png)
+
+![Screen Shot 2021-08-29 at 0 58 51](https://user-images.githubusercontent.com/51218415/131240355-164dd920-6993-4f46-b575-3bbf8116eb65.png)
+
+Consolidate VS Bounce
+- Consolidate will give us each track independently
+- Bounce will give us the combination of the tracks
+
+Select from End to Beginning what you want to bounce
+
+File > Bounce > To Disk
+
+Format: Interleaved
+Check Offline
+
+
 ## Fade and Crossfade Options
+
+Setup > Preferences > Editing > Fades
+
+![Screen Shot 2021-08-29 at 1 25 45](https://user-images.githubusercontent.com/51218415/131240866-be860e01-5a53-43e7-9631-efabe3067dd0.png)
+
+You can change the curve of the Fade-Out, Fade-In or CrossFades:
+
+![Screen Shot 2021-08-29 at 1 30 06](https://user-images.githubusercontent.com/51218415/131240965-22c81943-894e-4790-bfed-f3f9835162bb.png)
+
+![Screen Shot 2021-08-29 at 1 31 07](https://user-images.githubusercontent.com/51218415/131240986-6f62d540-6049-4bdf-9725-2f3e39b6c0b5.png)
+
+Edit > Fades > Create
+
+Even in a selection at the end, click Command + F to add a Fade Out
+
+![Screen Shot 2021-08-29 at 1 33 56](https://user-images.githubusercontent.com/51218415/131241061-d8443334-9d2d-442c-976c-8c088edce604.png)
+
+![Screen Shot 2021-08-29 at 1 34 55](https://user-images.githubusercontent.com/51218415/131241091-d1107d38-b037-4599-b235-d515a128633e.png)
+
+Put the selector in the middle of a Clip
+
+![Screen Shot 2021-08-29 at 1 36 44](https://user-images.githubusercontent.com/51218415/131241134-33feaae0-c143-40df-9505-465b2d2a2197.png)
+
+Edit > Fades > Fade to Start
+
+![Screen Shot 2021-08-29 at 1 37 44](https://user-images.githubusercontent.com/51218415/131241157-3d30d9b7-95e5-48e7-a9e9-b59ccd20a8c0.png)
+
+Select other part
+
+![Screen Shot 2021-08-29 at 1 38 31](https://user-images.githubusercontent.com/51218415/131241177-cccc3b69-b8e8-4937-af61-44cdcc4b7595.png)
+
+Edit > Fades > Fade to End
+
+![Screen Shot 2021-08-29 at 1 39 08](https://user-images.githubusercontent.com/51218415/131241197-b7d72d88-96b2-4eac-b9ad-2564ad79a3e8.png)
+
 
 ## Changing Tempo of Library Music Tracks
 
+Let's move our 123 Tempo track to 100
+
+Select the Track, put the Tempo to 100
+
+![Screen Shot 2021-08-29 at 2 47 06](https://user-images.githubusercontent.com/51218415/131242861-19e6b5a8-66b9-4be3-aa24-a28324d60b4a.png)
+
+Change to Time Compressor 
+
+![Screen Shot 2021-08-29 at 2 39 01](https://user-images.githubusercontent.com/51218415/131242623-f17bb200-2890-40cb-a3e2-42e8390098ef.png)
+
+Select the Track Again and move it to the calculated length
+
+![Screen Shot 2021-08-29 at 2 47 54](https://user-images.githubusercontent.com/51218415/131242881-f9de7d21-0d60-4107-826a-e9fe54c2a0e7.png)
+
 ## Setting Triggers in Beat Detective
+
+Event > Tempo Operations > Tempo Operations Window
+
+Select a Drum or Ritmic Track
+
+Event > Beat Detective > Analyze
+
+![Screen Shot 2021-08-29 at 3 03 18](https://user-images.githubusercontent.com/51218415/131243289-e45de01c-e303-4296-8922-a67f3b35e0bc.png)
+
+Adjust the Sensitivity to get the correct amount of bars
+
+![Screen Shot 2021-08-29 at 3 10 40](https://user-images.githubusercontent.com/51218415/131243465-06bd66cc-2b77-4344-bdcf-3dbdf11002af.png)
+
+You can manually adjust the bars in case of misdetection
+
+![Screen Shot 2021-08-29 at 3 16 22](https://user-images.githubusercontent.com/51218415/131243602-0f76dc1d-905f-4f43-8ed9-246b0a112272.png)
 
 ## Conforming Trigger in Beat Detective
 
+After detecting the Beats correctly
+
+Select "Clip Separation" > Separate
+
+![Screen Shot 2021-08-29 at 3 18 11](https://user-images.githubusercontent.com/51218415/131243656-4511f15f-152a-4cd0-9795-0e6f915f9d42.png)
+
+Event > Tempo Operations > Tempo Operations Window
+
+Change from 100 to 105 Tempo
+
+Select "Clip Conform" > Conform
+
+![Screen Shot 2021-08-29 at 3 25 45](https://user-images.githubusercontent.com/51218415/131243870-e3e80d01-d45e-4f4b-8ddd-d18c8f6b58ae.png)
+
+You could also try to change it to 95 Tempo
+
+Event > Tempo Operations > Tempo Operations Window
+
+Change from 100 to 95 Tempo
+
+Select "Clip Conform" > Conform
+
+![Screen Shot 2021-08-29 at 3 30 13](https://user-images.githubusercontent.com/51218415/131243985-7787ecf8-f5b5-4857-a37d-18d4ac3735ec.png)
+
+But we have some gaps between the clips
+
+Select "Edit Smoothing" > Smooth
+
+![Screen Shot 2021-08-29 at 3 32 29](https://user-images.githubusercontent.com/51218415/131244115-701248bb-4baf-4f88-b8df-ccb98d93df4f.png)
+
+Let's try "Fill and Crossfade" 
+
+![Screen Shot 2021-08-29 at 3 35 22](https://user-images.githubusercontent.com/51218415/131244206-5870c04e-1002-4ed6-9ee1-eb7f8bee62ec.png)
+
+
 # Elastic Audio
-
 ## Elastic Audio for a Voice Track
-
 ## Elastic Audio for Music
-
 ## Pitch Adjustments using Elastic Audio
 
-# MIDI in Pro Tools 
-
+# MIDI in Pro Tools - LATER
 ## Connecting a MIDI Keyboard
+## Editing MIDI Notes
+## XPand!2 - Virtual Instrument Library
+## Recording and Editing MIDI
+## MIDI Merge and Wait for Note
+## Play it Slow, Hear it Fast
+## MIDI Step Load
+## Performance Transpositions using Xpand!2
+## Virtual Instruments
+## MIDI Import and Export
+
+# Tracking Instruments
+## Adding Rhythm Guitar
+## Arranging using the Timeline
+## Guitar Amp Simulators
+## Loop Record and Playlists
+## Comping a Playlist
+## Quick Punch
+## Dynamic Punch
+## Half Speed Recording
+
+# Sound Design - LATER
+## Sound Design
+## Dialog Phone EFX
+## Creating New SFX with Plug-Ins
+## Using Plugins to Process SFX
+## Timing Music to SFX
+## Tuning SFX to Music
+## Exploring the Structure Interface
+## Putting Structure to Work
+
+# Working with Video - LATER
+## Importing Movie
+## Spotting the Movie
+## Setting the Tempo of the Music
+## Using Spot Mode for Precise Placement
+## Building an Alternative Version in the Timeline
+## Bouncing the Movie
+
+# Mixing and Automation
+## The Philosophy of Mixing
+## EQ and Volume
+## Busses, Sends, Auxes and Inserts
+## Panning, Marker Locations and the Universe
+## Automating Plugin Parameters
+## Compression and Customing Templates
+## Printing Effects and Stems
+## Archiving your Session
 
 
 
