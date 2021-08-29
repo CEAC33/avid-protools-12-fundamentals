@@ -1069,9 +1069,82 @@ Let's try "Fill and Crossfade"
 
 
 # Elastic Audio
+
 ## Elastic Audio for a Voice Track
+
+These are the algorithms available for elastic audio
+These 3 doesn't affect the pitch:
+- Polyphonic - when you have more than one tone at the same time (chords)
+- Rhythmic - when you don't have any pitches
+- Monophonic - just one voice
+These one will not only change the timing but also the speed 
+- Varispeed
+
+![Screen Shot 2021-08-29 at 12 29 22](https://user-images.githubusercontent.com/51218415/131259644-fc3aa7d6-a995-46d1-9a09-76caea3c501f.png)
+
+If you select Monophonic and change from Waveform to Analysis, you should see something like this:
+
+![Screen Shot 2021-08-29 at 12 34 40](https://user-images.githubusercontent.com/51218415/131259841-f322535d-48c2-41e1-91ed-e8e8eaa23a50.png)
+
+There are more markers than we want, so we can adjust markers and Option + Click to remove a marker
+
+![Screen Shot 2021-08-29 at 12 39 11](https://user-images.githubusercontent.com/51218415/131259993-0ea3ec54-c0b5-460b-b21d-c42cc7985163.png)
+
+That's the Analysis, now we can move to Warp
+
+Double-Click to add an Anchor Point
+
+![Screen Shot 2021-08-29 at 12 41 28](https://user-images.githubusercontent.com/51218415/131260057-4d96d036-9007-43fe-9818-c9a0b557d026.png)
+
+And now you can stretch:
+
+![Screen Shot 2021-08-29 at 12 42 09](https://user-images.githubusercontent.com/51218415/131260079-5cddaa9c-2331-4746-8a42-494f169174b3.png)
+
+We notice the Monophonic sounds robotic, so we can to Polyphonic and it sounds better
+
+You'll know if Elastic Audio was applied to a Clip because of that icon:
+
+![Screen Shot 2021-08-29 at 12 45 57](https://user-images.githubusercontent.com/51218415/131260223-0a0a8834-41fd-4e2f-8d32-4ec88eea2801.png)
+
+![Screen Shot 2021-08-29 at 12 47 14](https://user-images.githubusercontent.com/51218415/131260254-24870d3e-4bca-4d4c-a487-4176ac27d378.png)
+
 ## Elastic Audio for Music
+
+We want to keep the Kick Parts and move the Snare Parts
+
+![Screen Shot 2021-08-29 at 12 52 00](https://user-images.githubusercontent.com/51218415/131260381-fc942c9b-1beb-4609-9945-c794cc85216d.png)
+
+In this case we will use Rhythmic algorithm
+
+Track > Create Click Track
+
+You can Enable/Disable the Click with that icon in Transport Window
+
+![Screen Shot 2021-08-29 at 12 54 26](https://user-images.githubusercontent.com/51218415/131260450-9910f287-8e32-4e37-9fad-4333983b35dc.png)
+
+Now we switch to Analysis
+
+![Screen Shot 2021-08-29 at 12 56 06](https://user-images.githubusercontent.com/51218415/131260504-272aeb1d-d991-426b-afe4-c71001cf8a90.png)
+
+We move to Warp and start Anchoring the good parts
+
+It's easier if we move to Grid Mode and we are sure that the grid is a 1/4 note
+
+![Screen Shot 2021-08-29 at 12 59 41](https://user-images.githubusercontent.com/51218415/131260615-070d9b6d-2421-48b6-aacc-b6e5ffceb425.png)
+
+![Screen Shot 2021-08-29 at 13 00 47](https://user-images.githubusercontent.com/51218415/131260661-797d3d53-5a24-4827-99da-6430ee6c12f7.png)
+
 ## Pitch Adjustments using Elastic Audio
+
+Clip > Elastic Properties
+
+![Screen Shot 2021-08-29 at 13 05 52](https://user-images.githubusercontent.com/51218415/131260798-20459be8-3477-41ae-9d88-44274da5c443.png)
+
+Select the Clip using Polyphonic and you would be able to change Pitch Shift Positive/Negative
+
+![Screen Shot 2021-08-29 at 13 08 06](https://user-images.githubusercontent.com/51218415/131260884-c8adb48d-ef20-4268-9fb5-4e81f0043ad5.png)
+
+![Screen Shot 2021-08-29 at 13 09 48](https://user-images.githubusercontent.com/51218415/131260931-8c5f8b4f-4044-4b48-93c7-09f049dfadde.png)
 
 # MIDI in Pro Tools - LATER
 ## Connecting a MIDI Keyboard
