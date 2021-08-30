@@ -1322,10 +1322,103 @@ You'll have a record with the speed doubled and a higher pitch
 ## Bouncing the Movie
 
 # Mixing and Automation
+
 ## The Philosophy of Mixing
+
+Create a Session with "24+EQ+Dyn+FX Returns" Template (Record+Mix Category)
+
+The beauty of mix is in how the sounds blend and compliment one another and not how a single instrument sound by itself
+
 ## EQ and Volume
+
+**Volume - OPTION 1**
+
+Anytime you have more than 1 Track happenning at the same time you want a Master Fader
+
+The idea is to move individual faders so that you can leave the Master Fader at 0, and have the peak from -3 to 0.3
+
+RECOMMENDATION: Line the tracks up in their orden of importance  
+
+If your tracks were recorded right your faders are going to be loud, a little softer, a little softer ...
+
+**EQ - OPTION 2**
+
+Another option is to carve out a space in the frequency spectrum that lets that part stand out
+
+Let's say you want the guitar to have more presence in the middle frequencies; rather than boost the middle frequencies of the guitar try reducing those same frequencies in the bass
+
+If two sounds are fighting one another, try EQ
+
+You can boost the good stuff or cut the bad stuff
+
+![Screen Shot 2021-08-29 at 19 07 10](https://user-images.githubusercontent.com/51218415/131269875-bfc7ae6a-8b93-4e87-90b7-4e47ddcf403b.png)
+
+Thinking about the texture of each element:
+- Does it need Reverb?
+- Does it need Delay?
+- Does it need Compression?
+- Is the Volume perfect from End to End?
+
 ## Busses, Sends, Auxes and Inserts
+
+These are some effects that are common for a Pop Song:
+
+![Screen Shot 2021-08-29 at 19 12 34](https://user-images.githubusercontent.com/51218415/131270044-d670e8e8-b485-4e51-9679-390f03c06667.png)
+
+- Verb - AIR Reverb
+- Slap - ModDelay 3, Lo-Fi (Harmonic Section), EQ3 1-Band
+- StereoDel1
+- ChurchVerb
+- Master 1
+
+**SLAP**
+
+ModDelay 3
+
+![Screen Shot 2021-08-29 at 19 16 43](https://user-images.githubusercontent.com/51218415/131270161-692b503d-cee3-4d0a-bbcd-cdec22785f31.png)
+
+Lo-Fi (Harmonic Section)
+
+EQ3 1-Band - Shelf
+
+![Screen Shot 2021-08-29 at 19 17 37](https://user-images.githubusercontent.com/51218415/131270192-de9fa07d-4d56-4a1a-a5ea-0d96f9593c11.png)
+
+![Screen Shot 2021-08-29 at 19 19 49](https://user-images.githubusercontent.com/51218415/131270259-899e58cf-e115-4415-af0a-08247f0631f4.png)
+
+You can Rename Buses: Setup > IO
+
+![Screen Shot 2021-08-29 at 19 21 23](https://user-images.githubusercontent.com/51218415/131270315-8be6b564-43d2-48ce-ac6b-a32fa6559c59.png)
+
+You can Bypass Inserts and Mute Sends in Track Menu
+
+![Screen Shot 2021-08-29 at 19 23 38](https://user-images.githubusercontent.com/51218415/131270395-ce316632-afdc-41a0-90db-a65353cb6c1b.png)
+
+![Screen Shot 2021-08-29 at 19 23 57](https://user-images.githubusercontent.com/51218415/131270406-0f8a13e1-0a29-4e83-b6af-aef74708b7c1.png)
+
+If the tile is blue it means is bypassed
+
+![Screen Shot 2021-08-29 at 19 24 40](https://user-images.githubusercontent.com/51218415/131270432-4961944e-0851-46d1-8a3e-0e4b2d22ade2.png)
+
+If it's red it means the Send Level has been exceeded , there's been digital clipping
+
+Transport Windows > Fade-in (it saves you from having an instant full volume when you hit play)
+
 ## Panning, Marker Locations and the Universe
+
+**Panning**
+
+It's important to equilibrate the panning and not just have it at 100 left and right in Stereo, and at the center if it's Mono
+
+![Screen Shot 2021-08-29 at 19 29 28](https://user-images.githubusercontent.com/51218415/131270609-fa800e86-2239-49b2-b098-d658f8c68715.png)
+
+**Markers**
+
+Window > Memory Locations
+
+![Screen Shot 2021-08-29 at 19 31 39](https://user-images.githubusercontent.com/51218415/131270673-ce3c9744-aa5c-4d66-af11-8c6ad58d18d6.png)
+
+![Screen Shot 2021-08-29 at 19 32 40](https://user-images.githubusercontent.com/51218415/131270708-515a81cc-0f3a-4713-ba13-46a36559a5ed.png)
+
 ## Automating Plugin Parameters
 ## Compression and Customing Templates
 ## Printing Effects and Stems
