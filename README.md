@@ -1419,7 +1419,133 @@ Window > Memory Locations
 
 ![Screen Shot 2021-08-29 at 19 32 40](https://user-images.githubusercontent.com/51218415/131270708-515a81cc-0f3a-4713-ba13-46a36559a5ed.png)
 
+## Automating Volume, Pan and Send Levels
+
+### VOLUME Automation
+
+#### Auto Write
+
+1.- Go from "auto read" to "auto write"
+
+![Screen Shot 2021-09-25 at 23 40 32](https://user-images.githubusercontent.com/51218415/134793934-1c2dcc4a-c2a1-4099-8bc6-46fe76f1e923.png)
+
+2.- Hit space bar to start playing
+
+3.- Make a volume move
+
+4.- The button changes to "auto latch" 
+
+(if it's not switching to latch):
+Setup > Preferences > Mixing > Automation > After Write Pass, Switch To: Latch
+
+![Screen Shot 2021-09-25 at 23 44 11](https://user-images.githubusercontent.com/51218415/134793982-3505c838-666d-4952-8841-cafe1a50a29a.png)
+
+latch - in case you want the fader where you left it
+
+touch - in case you want the fader where it was originally
+
+There's the volume move:
+
+![Screen Shot 2021-09-25 at 23 57 32](https://user-images.githubusercontent.com/51218415/134794269-6a9b257e-6225-43e3-9b4e-e4d60cbce08c.png)
+
+
+### PANNING Automation
+
+Jump to Edit Window
+
+Go "auto read"
+
+Add another line with the panning
+
+![Screen Shot 2021-09-26 at 0 06 02](https://user-images.githubusercontent.com/51218415/134794459-6aa3506a-c4a5-4f63-a952-b03a83e75b02.png)
+
+**PENCIL Automation**
+
+Use the Pencil Tool
+
+![Screen Shot 2021-09-26 at 0 06 58](https://user-images.githubusercontent.com/51218415/134794479-2c79de59-c949-4f06-bcf1-04dfbce766ae.png)
+
+Select Line
+
+![Screen Shot 2021-09-26 at 0 07 28](https://user-images.githubusercontent.com/51218415/134794496-ca3dcb1c-4ea4-4609-9246-ef92c9cca608.png)
+
+Start writing some lines in the pannning
+
+![Screen Shot 2021-09-26 at 0 08 38](https://user-images.githubusercontent.com/51218415/134794529-479704d3-bb6c-42ad-aa88-802a38dd350b.png)
+
+You can reduce the points in the automations by:
+Edit > Thin Automation
+
+Select the Automation
+
+![Screen Shot 2021-09-26 at 0 10 37](https://user-images.githubusercontent.com/51218415/134794567-f102d65a-254f-4649-aafd-e4521d27c6fc.png)
+
+Edit > Thin Automation
+
+**FADER Automation**
+
+Change to "auto write"
+
+![Screen Shot 2021-09-26 at 0 14 02](https://user-images.githubusercontent.com/51218415/134794629-0345affa-1ff5-488c-8fbe-134104453bad.png)
+
+Play and start writing the panning
+
+![Screen Shot 2021-09-26 at 0 14 33](https://user-images.githubusercontent.com/51218415/134794644-b334c08b-0eb7-4ed5-a243-2fc5645d7c00.png)
+
+Automating the Panning will erase the automation of the Volume
+So if you want to automate particular items we can enable and disable those
+
+Jump to the Mix Window
+
+If you want to record automation during the recording process:
+
+Setup > Preferences > Operation > Record > Enable Automation in Record
+
+![Screen Shot 2021-09-26 at 2 06 00](https://user-images.githubusercontent.com/51218415/134797482-83c0c9b2-dbb8-4a9f-ab02-7e3af21191b2.png) 
+
 ## Automating Plugin Parameters
+
+Select "auto read"
+
+In the Mix Window add a "D-Verb" plugin:
+
+![Screen Shot 2021-09-26 at 2 13 20](https://user-images.githubusercontent.com/51218415/134797695-617478d8-3007-496e-816f-41716c5fe7a6.png)
+
+![Screen Shot 2021-09-26 at 2 14 05](https://user-images.githubusercontent.com/51218415/134797713-67deae1a-f563-4c19-91d1-ef492d682633.png)
+
+Click in th auto icon:
+
+![Screen Shot 2021-09-26 at 2 14 43](https://user-images.githubusercontent.com/51218415/134797729-ea76f717-5b9c-43c0-89fd-0812b3a7ae75.png)
+
+They are in the left:
+
+![Screen Shot 2021-09-26 at 2 15 17](https://user-images.githubusercontent.com/51218415/134797748-1aa18bdb-2088-41e2-8fb6-61f42cd66f2c.png)
+
+Select the ones you want to automate, and move them to the right:
+
+![Screen Shot 2021-09-26 at 2 16 02](https://user-images.githubusercontent.com/51218415/134797783-4d073719-5107-4b97-ae7d-0c89b9cbc34d.png)
+
+After that they'll be colored green:
+
+![Screen Shot 2021-09-26 at 2 16 35](https://user-images.githubusercontent.com/51218415/134797798-cf34957d-7d70-4f5b-bd4a-3ef96ef7c1a3.png)
+
+If you change to "auto write", they'll be colored red:
+
+![Screen Shot 2021-09-26 at 2 18 36](https://user-images.githubusercontent.com/51218415/134797866-c65aecd0-9a42-4206-9a19-2afff8ea996e.png)
+
+Be careful if you change the type of reverb in the middle of mix or even in tracking
+
+You'll likely hear a click as it changes the algorithm
+
+These are automatable, but you might want to just change it in a muted spot 
+
+For example if you automate a change in the Decay of the Reverb
+
+You can see the automation in LongVerb > Decay
+
+![Screen Shot 2021-09-26 at 2 22 27](https://user-images.githubusercontent.com/51218415/134797973-a8fc0f0c-c934-48e8-b38c-a448540637e5.png)
+
+
 ## Compression and Customing Templates
 ## Printing Effects and Stems
 ## Archiving your Session
