@@ -1543,11 +1543,67 @@ For example if you automate a change in the Decay of the Reverb
 
 You can see the automation in LongVerb > Decay
 
-![Screen Shot 2021-09-26 at 2 22 27](https://user-images.githubusercontent.com/51218415/134797973-a8fc0f0c-c934-48e8-b38c-a448540637e5.png)
-
+![Screen Shot 2021-09-26 at 2 25 40](https://user-images.githubusercontent.com/51218415/134798062-fecd999e-077a-420d-af92-070cf02fe4f5.png)
 
 ## Compression and Customing Templates
+
+**Simple Limiter**
+
+20:1 is pretty agressive
+
+![Screen Shot 2021-09-26 at 17 09 09](https://user-images.githubusercontent.com/51218415/134825839-dccf5bf8-e445-4c45-9126-78d7f18713db.png)
+
+**Gentle Limiting **
+
+100:1 
+
+![Screen Shot 2021-09-26 at 17 11 04](https://user-images.githubusercontent.com/51218415/134825869-15061ae0-1eb0-4fb2-abba-587cf124ac19.png)
+
+**Hard Limiting**
+
+100:1
+
+![Screen Shot 2021-09-26 at 17 12 31](https://user-images.githubusercontent.com/51218415/134825898-1fab43e2-1540-4031-b09a-bc3df35fb320.png)
+
+**Fatten**
+
+20:1
+
+![Screen Shot 2021-09-26 at 17 13 13](https://user-images.githubusercontent.com/51218415/134825920-7d348d93-f7aa-4e75-b835-aa9429c696e0.png)
+
+**Pump**
+
+10:1
+
+![Screen Shot 2021-09-26 at 17 13 57](https://user-images.githubusercontent.com/51218415/134825936-e26da6d5-acfa-4bb0-b5c9-32c9bd57ea97.png)
+
+We've sort of flattened this whole thing out so that: 
+- the very soft stuff is now being amplified a lot 
+- the very loud stuff isn't presumably loud at all
+
+You have several settings for how aggresive you want to be with this:
+
+![Screen Shot 2021-09-26 at 21 28 01](https://user-images.githubusercontent.com/51218415/134836908-bc1a04c5-97e1-4e4a-b764-9cdf4351ca2b.png)
+
+Control + Click: Mute Inserts
+
+The compression depends a lot on whether you plan to master or not
+
+If you're mixing and this is the final output then some compression is advisable
+
+If you're going to a Mastering Engineer and you use up all the headroom, you're locking your mastering engineers ability to do his job
+
+If your mastering leave about 6dB of headroom for your master, yoiu shouldn't compress a lot. Because the Mastering Compressor probably has a better multichannel commpressor than you do, probably has better monitors than you do. And if you compress a lot you're killing the dynamics and that's part of a mastering engineers job
+
+You can save a session as a Template:
+
+File > Save As Template
+
+
 ## Printing Effects and Stems
+
+
+
 ## Archiving your Session
 
 
