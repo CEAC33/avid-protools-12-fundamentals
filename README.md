@@ -1602,7 +1602,43 @@ File > Save As Template
 
 ## Printing Effects and Stems
 
+**Issue 1**
 
+Let's say the master has a plugin which you don't have:
+
+![Screen Shot 2021-09-26 at 21 47 44](https://user-images.githubusercontent.com/51218415/134838370-d9842221-3ab0-43e1-90e4-30c4fdbbe7d0.png)
+
+We see this a lot; people use a plugin that they own and then they send the session to somebody who doesn't have that plugin
+
+And this is what happens, the plugin gets italicised
+
+**Issue 2**
+
+Sometimes you'll be tying up a lot of processing power of your computer by sending a bunch of tracks to a reverb or a delay or some other processing unit. and you'll be doing that every time you hit play
+
+**Workaround**
+
+The tip is to print the effects as an audio file
+
+In the old days we would solo the lead vocal, solo the effects and then bounce whatever was soloed and then import it
+
+That system works fine but as ProTools 11 we have the ability to route this bus to a track:
+
+![Screen Shot 2021-09-26 at 21 56 27](https://user-images.githubusercontent.com/51218415/134839047-89d360ab-ff1b-439e-8105-f4e6fe2d47ac.png)
+
+Or make a new track for it:
+
+![Screen Shot 2021-09-26 at 21 57 02](https://user-images.githubusercontent.com/51218415/134839082-3e6353a3-d2c7-45eb-9381-8e55fa21fd9c.png)
+
+![Screen Shot 2021-09-26 at 21 58 12](https://user-images.githubusercontent.com/51218415/134839179-c825f55c-979e-4a63-86c7-f6c3874b5298.png)
+
+The new track now is there, but we need to route it
+
+![Screen Shot 2021-09-26 at 21 59 44](https://user-images.githubusercontent.com/51218415/134839282-d89921e8-ff6e-425b-b551-a86453ec65ca.png)
+
+We can use the same system when a client asks you for **stems**
+
+Stems are typically all the vocals from the front of the song to the back of the song, all the rhythm might be the drum part from the front of the song to the back of the song
 
 ## Archiving your Session
 
