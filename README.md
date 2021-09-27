@@ -1642,8 +1642,46 @@ Stems are typically all the vocals from the front of the song to the back of the
 
 ## Archiving your Session
 
+Let's say that we perfected our mix, got the levels right, got the textures right. Everything sounds great. The client is happy and it's time to archive this session and move to the next project
 
+Go to Clips > Select > Unused
 
+![Screen Shot 2021-09-26 at 22 11 06](https://user-images.githubusercontent.com/51218415/134840057-2b55bfbf-7782-4176-a25d-80962f5b222a.png)
 
+File > Save Copy In ...
 
+Items to Copy > Check "Audio Files" and "Root Plugin Settings Folder"
 
+![Screen Shot 2021-09-26 at 22 12 56](https://user-images.githubusercontent.com/51218415/134840187-70b6b2af-dd70-4928-aea9-64a6fb46a31d.png)
+
+Use the word "Archive" in the title somewhere so it's clear when you see it that was the final archive of this session
+
+Then go to Clips and clear the Unused Clips
+
+![Screen Shot 2021-09-26 at 22 15 50](https://user-images.githubusercontent.com/51218415/134840411-4e341240-ea24-4eef-ab92-b622322adb5c.png)
+
+Remove - just remove the clips form the session, but keep the files in the hardrive
+Delete - it's the efficient way to also remove the files from the hardrive
+
+![Screen Shot 2021-09-26 at 22 17 28](https://user-images.githubusercontent.com/51218415/134840537-e961e878-047d-42c5-b960-8043ef2f95e0.png)
+
+Some Pages to find Plugins:
+- Avid - https://www.avid.com/avid-plugins-by-category
+- Waves - https://www.waves.com/plugins
+- iZotope - https://www.izotope.com/
+- McDSP - https://www.mcdsp.com/plugin-index/
+
+# Find an Avid Learning Partner
+
+https://www.avid.com/education/find-an-avid-learning-partner
+
+Online (Berklee):
+- Level 1
+  - Pro Tools 101 - 1,250 USD - https://online.berklee.edu/courses/pro-tools-101
+- Level 2
+  - Pro Tools 110 - 1,250 USD - https://online.berklee.edu/courses/pro-tools-110
+- Level 3
+  - Mixing and Mastering with Pro Tools - 1,250 USD - https://online.berklee.edu/courses/mixing-and-mastering-with-pro-tools
+  - Remixing - 1,250 USD - https://online.berklee.edu/courses/remixing
+- Level 4
+  - Advanced Mixing and Mastering with Pro Tools - 1,250 USD - https://online.berklee.edu/courses/advanced-mixing-and-mastering-with-pro-tools
