@@ -1683,5 +1683,6 @@ Online (Berklee):
 - Level 3
   - Mixing and Mastering with Pro Tools - 1,250 USD - https://online.berklee.edu/courses/mixing-and-mastering-with-pro-tools
   - Remixing - 1,250 USD - https://online.berklee.edu/courses/remixing
+  - Audio Post Production for Film and TV - 1,250 USD - https://online.berklee.edu/courses/audio-post-production-for-film-and-tv
 - Level 4
   - Advanced Mixing and Mastering with Pro Tools - 1,250 USD - https://online.berklee.edu/courses/advanced-mixing-and-mastering-with-pro-tools
